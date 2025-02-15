@@ -6,13 +6,16 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
-    "prepare": "husky"
+    "prepare": "husky",
+    "commitlint": "commitlint --edit"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mark<mark.lauq@gmail.com>",
   "license": "ISC",
-  "description": "",
+  "description": "Mark's homepage",
   "devDependencies": {
+    "@commitlint/cli": "^19.7.1",
+    "@commitlint/config-conventional": "^19.7.1",
     "husky": "^9.1.7",
     "lint-staged": "^15.4.3",
     "vitepress": "2.0.0-alpha.2"
