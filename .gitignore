@@ -1,0 +1,10 @@
+# NPM
+node_modules
+
+# VitePress
+docs/.vitepress/dist
+docs/.vitepress/cache
+
+# Misc
+.vscode
+.DS_store
