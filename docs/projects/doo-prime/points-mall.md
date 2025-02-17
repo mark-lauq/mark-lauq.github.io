@@ -7,7 +7,7 @@
 <Badge type="tip" text="Next" />
 <Badge type="tip" text="React" />
 <Badge type="tip" text="Redux" />
-<Badge type="tip" text="TailwindCSS" />
+<Badge type="tip" text="Tailwind CSS" />
 <Badge type="tip" text="Ant Design" />
 <Badge type="tip" text="Swiper" />
 <Badge type="tip" text="i18n" />

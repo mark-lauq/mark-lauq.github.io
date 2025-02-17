@@ -22,13 +22,13 @@
 
   _2023.05 - 2025.02, Web Developer_
 
-  任职于 Doo Prime 德璞资本公司的调研与研发团队 [FinPoints Tech &#8594;](https://www.finpoints.com/)，负责开发与维护 ToC 方向的 CRM 平台（客户端与销售端）、在线的金融交易平台（类似 Trading View 可查看报价、实时交易）、客户的积分商城 Web 应用，ToB 方向的积分商城后台系统，技术栈基于 Node + React 的全栈 Web 应用为主，后台系统基于 Vue + Next. 主要负责以下业务方向:
+  任职于 Doo Prime 德璞资本公司的调研与研发团队 [FinPoints Tech](https://www.finpoints.com/)，负责开发与维护 ToC 方向的 CRM 平台（客户端与销售端）、在线的金融交易平台（类似 Trading View 可查看报价、实时交易）、客户的积分商城 Web 应用，ToB 方向的积分商城后台系统，技术栈基于 Node + React 的全栈 Web 应用为主，后台系统基于 Vue + Next. 主要负责以下业务方向:
 
 - **缤纷云（北京）科技有限公司** <small>[官网 &#8594;](https://www.bitiful.com/)</small>
 
   _2022.11 - 2023.04, 前端开发_
 
-  主要负责公司旗下一款对象存储服务应用:[缤纷云 &#8594;](https://www.bitiful.com/)。它采用了创新的低成本架构，使得中国大陆用户首次能以不到一半 的存储成本使用热点云存储(OSS 标准、COS 标准等)。涉及的工作内容大部分是 ToC 的缤纷云控制台 Web 应用。
+  主要负责公司旗下一款对象存储服务应用：[缤纷云](https://www.bitiful.com/)。它采用了创新的低成本架构，使得中国大陆用户首次能以不到一半 的存储成本使用热点云存储(OSS 标准、COS 标准等)。涉及的工作内容大部分是 ToC 的缤纷云控制台 Web 应用。
   完成缤纷云应用的部分功能。主要负责以下业务方向:
 
   - 部分代码重构、优化

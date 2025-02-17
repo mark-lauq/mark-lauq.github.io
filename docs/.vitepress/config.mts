@@ -38,6 +38,10 @@ export default defineConfig({
             text: "Doo 理想家积分后台",
             link: "/projects/doo-prime/points-admin",
           },
+          {
+            text: "缤纷云控制台",
+            link: "/projects/bitiful/console",
+          },
         ],
       },
     ],
@@ -67,6 +71,10 @@ export default defineConfig({
           {
             text: "Doo 理想家积分后台",
             link: "/projects/doo-prime/points-admin",
+          },
+          {
+            text: "缤纷云控制台",
+            link: "/projects/bitiful/console",
           },
         ],
       },
