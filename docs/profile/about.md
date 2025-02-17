@@ -20,7 +20,7 @@
 
 - **Doo Prime Limited 德璞资本** <small>[官网 &#8594;](https://www.dooprime.com/)</small>
 
-  _2023.05 - 至今, Web Developer_
+  _2023.05 - 2025.02, Web Developer_
 
   任职于 Doo Prime 德璞资本公司的调研与研发团队 [FinPoints Tech &#8594;](https://www.finpoints.com/)，负责开发与维护 ToC 方向的 CRM 平台（客户端与销售端）、在线的金融交易平台（类似 Trading View 可查看报价、实时交易）、客户的积分商城 Web 应用，ToB 方向的积分商城后台系统，技术栈基于 Node + React 的全栈 Web 应用为主，后台系统基于 Vue + Next. 主要负责以下业务方向:
 

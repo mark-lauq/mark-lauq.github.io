@@ -1,6 +1,5 @@
 ---
 prev: false
-next: false
 ---
 
 # Doo Client Platform

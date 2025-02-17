@@ -26,6 +26,10 @@ export default defineConfig({
             text: "Doo Client Platform",
             link: "/projects/doo-client-platform",
           },
+          {
+            text: "Doo Trading View 交易平台",
+            link: "/projects/doo-trading-view",
+          },
         ],
       },
     ],
@@ -43,6 +47,10 @@ export default defineConfig({
           {
             text: "Doo Client Platform",
             link: "/projects/doo-client-platform",
+          },
+          {
+            text: "Doo Trading View 交易平台",
+            link: "/projects/doo-trading-view",
           },
         ],
       },
