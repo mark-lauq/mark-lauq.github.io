@@ -32,7 +32,7 @@ prev: false
 
 ## 项目截图
 
-![Doo Prime Client Trading](/projects/doo-prime/client-trading.png)
+![Doo Client Trading](/projects/doo-prime/client-trading.png)
 <br />
 <br />
-![Doo Prime Client Analysis](/projects/doo-prime/client-analysis.png)
+![Doo Client Analysis](/projects/doo-prime/client-analysis.png)

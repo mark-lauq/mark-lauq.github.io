@@ -24,11 +24,15 @@ export default defineConfig({
         items: [
           {
             text: "Doo Client Platform",
-            link: "/projects/doo-client-platform",
+            link: "/projects/doo-prime/client-platform",
           },
           {
             text: "Doo Trading View 交易平台",
-            link: "/projects/doo-trading-view",
+            link: "/projects/doo-prime/trading-view",
+          },
+          {
+            text: "Doo 理想家积分商城",
+            link: "/projects/doo-prime/points-mall",
           },
         ],
       },
@@ -46,11 +50,15 @@ export default defineConfig({
         items: [
           {
             text: "Doo Client Platform",
-            link: "/projects/doo-client-platform",
+            link: "/projects/doo-prime/client-platform",
           },
           {
             text: "Doo Trading View 交易平台",
-            link: "/projects/doo-trading-view",
+            link: "/projects/doo-prime/trading-view",
+          },
+          {
+            text: "Doo 理想家积分商城",
+            link: "/projects/doo-prime/points-mall",
           },
         ],
       },
