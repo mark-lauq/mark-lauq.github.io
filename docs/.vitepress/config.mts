@@ -42,6 +42,10 @@ export default defineConfig({
             text: "缤纷云控制台",
             link: "/projects/bitiful/console",
           },
+          {
+            text: "蓝城后台系统",
+            link: "/projects/bluecity/admin",
+          },
         ],
       },
     ],
@@ -75,6 +79,10 @@ export default defineConfig({
           {
             text: "缤纷云控制台",
             link: "/projects/bitiful/console",
+          },
+          {
+            text: "蓝城后台系统",
+            link: "/projects/bluecity/admin",
           },
         ],
       },
