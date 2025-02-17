@@ -1,10 +1,10 @@
 # Doo 理想家积分后台
 
 **Frontend:**
-<Badge type="tip" text="Vue" />
-<Badge type="tip" text="Vuex" />
-<Badge type="tip" text="ECharts" />
-<Badge type="tip" text="Element UI" />
+[<Badge type="tip" text="Vue" />](https://vuejs.org)
+[<Badge type="tip" text="Vuex" />](https://vuex.vuejs.org)
+[<Badge type="tip" text="ECharts" />](https://vue-echarts.dev)
+[<Badge type="tip" text="Element UI" />](https://element-plus.org)
 
 ## 项目介绍
 

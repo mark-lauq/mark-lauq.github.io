@@ -3,12 +3,12 @@
 **Link:** [https://www.dootradingview.com](https://www.dootradingview.com)
 
 **Frontend:**
-<Badge type="tip" text="TypeScript" />
-<Badge type="tip" text="React" />
-<Badge type="tip" text="Webpack" />
-<Badge type="tip" text="UMI" />
-<Badge type="tip" text="Ant Design" />
-<Badge type="tip" text="WebSocket" />
+[<Badge type="tip" text="TypeScript" />](https://www.typescriptlang.org)
+[<Badge type="tip" text="React" />](https://react.dev)
+[<Badge type="tip" text="Webpack" />](https://webpack.js.org)
+[<Badge type="tip" text="UMI" />](https://umijs.org)
+[<Badge type="tip" text="Ant Design" />](https://ant.design)
+[<Badge type="tip" text="Socket IO" />](https://socket.io)
 
 ## 项目介绍
 

@@ -3,14 +3,13 @@
 **Link:** [https://mall.dooprimerewards.com](https://mall.dooprimerewards.com)
 
 **Frontend:**
-<Badge type="tip" text="TypeScript" />
-<Badge type="tip" text="Next" />
-<Badge type="tip" text="React" />
-<Badge type="tip" text="Redux" />
-<Badge type="tip" text="Tailwind CSS" />
-<Badge type="tip" text="Ant Design" />
-<Badge type="tip" text="Swiper" />
-<Badge type="tip" text="i18n" />
+[<Badge type="tip" text="TypeScript" />](https://www.typescriptlang.org)
+[<Badge type="tip" text="Next" />](https://nextjs.org)
+[<Badge type="tip" text="React" />](https://react.dev)
+[<Badge type="tip" text="Redux" />](https://redux.js.org)
+[<Badge type="tip" text="Tailwind CSS" />](https://tailwindcss.com)
+[<Badge type="tip" text="Ant Design" />](https://ant.design)
+[<Badge type="tip" text="Swiper" />](https://swiperjs.com)
 
 ## 项目介绍
 
