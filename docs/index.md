@@ -3,23 +3,28 @@
 layout: home
 
 hero:
-  name: "Mark"
-  text: "Mark's homepage"
-  tagline: Web 全栈工程师
+  # name: "Mark"
+  text: "Mark"
+  tagline: Web Full-Stack Engineer
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: About Me
+      link: /about
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon:
+      src: /open-to-work.png
+    title: Open to work
+    details: I am looking for early-career opportunities in software engineering.
+  - icon:
+      src: /graduation.png
+    title: Graduation
+    details: I can start employment in early 2025.
+  - icon:
+      light: /github-light.png
+      dark: /github-dark.png
+    title: GitHub
+    details: Where I keep (some of) my work and contribute others'.
+    link: https://github.com/mark-lauq
+    linkText: Visit
 ---
-
