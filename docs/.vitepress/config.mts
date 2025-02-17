@@ -34,6 +34,10 @@ export default defineConfig({
             text: "Doo 理想家积分商城",
             link: "/projects/doo-prime/points-mall",
           },
+          {
+            text: "Doo 理想家积分后台",
+            link: "/projects/doo-prime/points-admin",
+          },
         ],
       },
     ],
@@ -59,6 +63,10 @@ export default defineConfig({
           {
             text: "Doo 理想家积分商城",
             link: "/projects/doo-prime/points-mall",
+          },
+          {
+            text: "Doo 理想家积分后台",
+            link: "/projects/doo-prime/points-admin",
           },
         ],
       },
