@@ -19,6 +19,15 @@ export default defineConfig({
         text: "Profile",
         items: [{ text: "About Me", link: "/profile/about" }],
       },
+      {
+        text: "Projects",
+        items: [
+          {
+            text: "Doo Client Platform",
+            link: "/projects/doo-client-platform",
+          },
+        ],
+      },
     ],
 
     sidebar: [
@@ -26,6 +35,16 @@ export default defineConfig({
         text: "Profile",
         collapsed: false,
         items: [{ text: "About Me", link: "/profile/about" }],
+      },
+      {
+        text: "Projects",
+        collapsed: false,
+        items: [
+          {
+            text: "Doo Client Platform",
+            link: "/projects/doo-client-platform",
+          },
+        ],
       },
     ],
 
