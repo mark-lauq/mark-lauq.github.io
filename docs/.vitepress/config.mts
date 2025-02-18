@@ -50,6 +50,10 @@ export default defineConfig({
             text: "蓝城直播活动页",
             link: "/projects/bluecity/live",
           },
+          {
+            text: "淡蓝公益 H5 应用",
+            link: "/projects/bluecity/weal",
+          },
         ],
       },
     ],
@@ -91,6 +95,10 @@ export default defineConfig({
           {
             text: "蓝城直播活动页",
             link: "/projects/bluecity/live",
+          },
+          {
+            text: "淡蓝公益 H5 应用",
+            link: "/projects/bluecity/weal",
           },
         ],
       },
