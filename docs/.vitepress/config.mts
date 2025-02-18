@@ -60,6 +60,10 @@ export default defineConfig({
                 link: "/projects/bluecity/admin",
               },
               {
+                text: "蓝城运营管理后台",
+                link: "/projects/bluecity/op-admin",
+              },
+              {
                 text: "蓝城直播活动页",
                 link: "/projects/bluecity/live",
               },
@@ -122,6 +126,10 @@ export default defineConfig({
               {
                 text: "蓝城后台系统",
                 link: "/projects/bluecity/admin",
+              },
+              {
+                text: "蓝城运营管理后台",
+                link: "/projects/bluecity/op-admin",
               },
               {
                 text: "蓝城直播活动页",
