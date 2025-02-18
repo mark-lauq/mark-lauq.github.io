@@ -18,13 +18,13 @@
 
 ## 工作经历
 
-- **Doo Prime Limited 德璞资本** <small>[官网 &#8594;](https://www.dooprime.com)</small>
+- **Doo Prime Limited - 德璞资本** <small>[官网 &#8594;](https://www.dooprime.com)</small>
 
   _2023.05 - 2025.02, Web Developer_
 
   任职于 Doo Prime 德璞资本公司的调研与研发团队 [FinPoints Tech](https://www.finpoints.com)，负责开发与维护 ToC 方向的 CRM 平台（客户端与销售端）、在线的金融交易平台（类似 Trading View 可查看报价、实时交易）、客户的积分商城 Web 应用，ToB 方向的积分商城后台系统，技术栈基于 Node + React 的全栈 Web 应用为主，后台系统基于 Vue + Next. 主要负责以下业务方向:
 
-- **缤纷云（北京）科技有限公司** <small>[官网 &#8594;](https://www.bitiful.com)</small>
+- **Bitiful - 缤纷云（北京）科技有限公司** <small>[官网 &#8594;](https://www.bitiful.com)</small>
 
   _2022.11 - 2023.04, 前端开发_
 
@@ -36,7 +36,7 @@
   - CDN 相关的域名管理和缓存刷新设置
   - 对象/文件的异步上传队列
 
-- **北京蓝城兄弟信息技术有限公司** <small>[官网 &#8594;](https://www.bluecity.com)</small>
+- **Blue City - 北京蓝城兄弟信息技术有限公司** <small>[官网 &#8594;](https://www.bluecity.com)</small>
 
   _2015.03 - 2022.09, 高级研发工程师_
 
@@ -47,7 +47,7 @@
   - 负责各种 H5 应用(桌面端、移动端、Native 内嵌等)架构和开发
   - 先后担任过运营活动方向和后台管理系统方向的团队负责人，主要负责公司运营、业务线、财务等各个方面的内部后台系统
 
-- **北京易酷奥科技有限公司** <small>[官网 &#8594;](https://eicoinc.com)</small>
+- **EICO Design - 北京易酷奥科技有限公司** <small>[官网 &#8594;](https://eicoinc.com)</small>
 
   _2011.08 - 2014.11, Web 工程师_
 

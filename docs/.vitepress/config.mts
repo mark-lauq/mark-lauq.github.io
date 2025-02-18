@@ -44,7 +44,7 @@ export default defineConfig({
             ],
           },
           {
-            text: "缤纷云",
+            text: "Bitiful",
             items: [
               {
                 text: "缤纷云控制台",
@@ -53,7 +53,7 @@ export default defineConfig({
             ],
           },
           {
-            text: "蓝城",
+            text: "Blue City",
             items: [
               {
                 text: "蓝城后台系统",
@@ -112,7 +112,7 @@ export default defineConfig({
             ],
           },
           {
-            text: "缤纷云",
+            text: "Bitiful",
             items: [
               {
                 text: "缤纷云控制台",
@@ -121,7 +121,7 @@ export default defineConfig({
             ],
           },
           {
-            text: "蓝城",
+            text: "Blue City",
             items: [
               {
                 text: "蓝城后台系统",
