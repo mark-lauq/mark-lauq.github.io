@@ -16,8 +16,8 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       {
-        text: "Profile",
-        items: [{ text: "About Me", link: "/profile/about" }],
+        text: "About Me",
+        link: "/about",
       },
       {
         text: "Projects",
@@ -79,9 +79,8 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "Profile",
-        collapsed: false,
-        items: [{ text: "About Me", link: "/profile/about" }],
+        text: "About Me",
+        link: "/about",
       },
       {
         text: "Projects",
