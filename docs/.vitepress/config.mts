@@ -23,36 +23,55 @@ export default defineConfig({
         text: "Projects",
         items: [
           {
-            text: "Doo Client Platform",
-            link: "/projects/doo-prime/client-platform",
+            text: "Doo Prime",
+            items: [
+              {
+                text: "Doo Client Platform",
+                link: "/projects/doo-prime/client-platform",
+              },
+              {
+                text: "Doo Trading View 交易平台",
+                link: "/projects/doo-prime/trading-view",
+              },
+              {
+                text: "Doo 理想家积分商城",
+                link: "/projects/doo-prime/points-mall",
+              },
+              {
+                text: "Doo 理想家积分后台",
+                link: "/projects/doo-prime/points-admin",
+              },
+            ],
           },
           {
-            text: "Doo Trading View 交易平台",
-            link: "/projects/doo-prime/trading-view",
+            text: "缤纷云",
+            items: [
+              {
+                text: "缤纷云控制台",
+                link: "/projects/bitiful/console",
+              },
+            ],
           },
           {
-            text: "Doo 理想家积分商城",
-            link: "/projects/doo-prime/points-mall",
-          },
-          {
-            text: "Doo 理想家积分后台",
-            link: "/projects/doo-prime/points-admin",
-          },
-          {
-            text: "缤纷云控制台",
-            link: "/projects/bitiful/console",
-          },
-          {
-            text: "蓝城后台系统",
-            link: "/projects/bluecity/admin",
-          },
-          {
-            text: "蓝城直播活动页",
-            link: "/projects/bluecity/live",
-          },
-          {
-            text: "淡蓝公益 H5 应用",
-            link: "/projects/bluecity/weal",
+            text: "蓝城",
+            items: [
+              {
+                text: "蓝城后台系统",
+                link: "/projects/bluecity/admin",
+              },
+              {
+                text: "蓝城直播活动页",
+                link: "/projects/bluecity/live",
+              },
+              {
+                text: "蓝城公益 H5 应用",
+                link: "/projects/bluecity/weal",
+              },
+              {
+                text: "蓝城定时脚本",
+                link: "/projects/bluecity/schedule",
+              },
+            ],
           },
         ],
       },
@@ -69,36 +88,55 @@ export default defineConfig({
         collapsed: false,
         items: [
           {
-            text: "Doo Client Platform",
-            link: "/projects/doo-prime/client-platform",
+            text: "Doo Prime",
+            items: [
+              {
+                text: "Doo Client Platform",
+                link: "/projects/doo-prime/client-platform",
+              },
+              {
+                text: "Doo Trading View 交易平台",
+                link: "/projects/doo-prime/trading-view",
+              },
+              {
+                text: "Doo 理想家积分商城",
+                link: "/projects/doo-prime/points-mall",
+              },
+              {
+                text: "Doo 理想家积分后台",
+                link: "/projects/doo-prime/points-admin",
+              },
+            ],
           },
           {
-            text: "Doo Trading View 交易平台",
-            link: "/projects/doo-prime/trading-view",
+            text: "缤纷云",
+            items: [
+              {
+                text: "缤纷云控制台",
+                link: "/projects/bitiful/console",
+              },
+            ],
           },
           {
-            text: "Doo 理想家积分商城",
-            link: "/projects/doo-prime/points-mall",
-          },
-          {
-            text: "Doo 理想家积分后台",
-            link: "/projects/doo-prime/points-admin",
-          },
-          {
-            text: "缤纷云控制台",
-            link: "/projects/bitiful/console",
-          },
-          {
-            text: "蓝城后台系统",
-            link: "/projects/bluecity/admin",
-          },
-          {
-            text: "蓝城直播活动页",
-            link: "/projects/bluecity/live",
-          },
-          {
-            text: "淡蓝公益 H5 应用",
-            link: "/projects/bluecity/weal",
+            text: "蓝城",
+            items: [
+              {
+                text: "蓝城后台系统",
+                link: "/projects/bluecity/admin",
+              },
+              {
+                text: "蓝城直播活动页",
+                link: "/projects/bluecity/live",
+              },
+              {
+                text: "蓝城公益 H5 应用",
+                link: "/projects/bluecity/weal",
+              },
+              {
+                text: "蓝城定时脚本",
+                link: "/projects/bluecity/schedule",
+              },
+            ],
           },
         ],
       },
