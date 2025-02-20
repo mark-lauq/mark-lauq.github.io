@@ -77,6 +77,15 @@ export default defineConfig({
               },
             ],
           },
+          {
+            text: "EICO Design",
+            items: [
+              {
+                text: "EICO 品牌官网",
+                link: "/projects/eico/homepage",
+              },
+            ],
+          },
         ],
       },
     ],
@@ -142,6 +151,15 @@ export default defineConfig({
               {
                 text: "蓝城定时脚本",
                 link: "/projects/bluecity/schedule",
+              },
+            ],
+          },
+          {
+            text: "EICO Design",
+            items: [
+              {
+                text: "EICO 品牌官网",
+                link: "/projects/eico/homepage",
               },
             ],
           },
