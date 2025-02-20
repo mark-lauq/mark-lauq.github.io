@@ -19,7 +19,7 @@ features:
   - icon:
       src: /graduation.png
     title: Graduation
-    details: I can start employment in early 2025.
+    details: I can start employment right now.
   - icon:
       light: /github-light.png
       dark: /github-dark.png
