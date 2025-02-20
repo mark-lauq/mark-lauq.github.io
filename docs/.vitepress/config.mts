@@ -84,6 +84,10 @@ export default defineConfig({
                 text: "EICO 品牌官网",
                 link: "/projects/eico/homepage",
               },
+              {
+                text: "Weico 的服务端接口",
+                link: "/projects/eico/weico-api",
+              },
             ],
           },
         ],
@@ -160,6 +164,10 @@ export default defineConfig({
               {
                 text: "EICO 品牌官网",
                 link: "/projects/eico/homepage",
+              },
+              {
+                text: "Weico 的服务端接口",
+                link: "/projects/eico/weico-api",
               },
             ],
           },
