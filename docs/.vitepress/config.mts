@@ -88,6 +88,10 @@ export default defineConfig({
                 text: "Weico 的服务端接口",
                 link: "/projects/eico/weico-api",
               },
+              {
+                text: "Weico 的后台管理系统",
+                link: "/projects/eico/weico-admin",
+              },
             ],
           },
         ],
@@ -168,6 +172,10 @@ export default defineConfig({
               {
                 text: "Weico 的服务端接口",
                 link: "/projects/eico/weico-api",
+              },
+              {
+                text: "Weico 的后台管理系统",
+                link: "/projects/eico/weico-admin",
               },
             ],
           },
