@@ -198,7 +198,7 @@ export default defineConfig({
     socialLinks: [{ icon: "github", link: "https://github.com/mark-lauq" }],
 
     footer: {
-      copyright: `&copyright; ${new Date().getUTCFullYear()} Mark.`,
+      copyright: `&#169; ${new Date().getUTCFullYear()} Mark`,
     },
 
     search: {
