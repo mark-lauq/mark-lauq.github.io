@@ -15,6 +15,8 @@
 
 开发维护部分定时脚本，包括 Node.js 和 Shell 脚本，涉及运营、直播、广告等业务。
 
+## 主要成就
+
 - 使用 TypeScript 语言、Node.js 12+、ES6+
 - 使用 Node-Schedule 管理定时调度
 - 使用 MySQL、Redis 进行数据交互、使用 Kafka 上报数据、Elasticsearch 引擎搜索数据

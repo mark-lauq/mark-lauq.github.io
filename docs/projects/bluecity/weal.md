@@ -18,6 +18,8 @@
 
 提供在线查询防艾组织、预约检测和记录查询等功能，属于 Blued 内嵌式应用。
 
+## 主要成就
+
 - 使用 Angular 搭建前端项目
 - 使用 Antd Mobile UI 库实现页面排版、Scss 编写自定义样式
 - 使用 Request 进行 Ajax 请求
