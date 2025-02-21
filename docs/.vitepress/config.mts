@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   cleanUrls: true,
+  lastUpdated: true,
   title: "Mark",
   titleTemplate: ":title | Mark",
   description: "Mark's Profile",
@@ -93,7 +94,6 @@ export default defineConfig({
         ],
       },
     ],
-
     sidebar: [
       {
         text: "About Me",
@@ -170,7 +170,6 @@ export default defineConfig({
         ],
       },
     ],
-
     outline: {
       /**
        * outline 中要显示的标题级别。
@@ -182,15 +181,19 @@ export default defineConfig({
        */
       level: "deep",
     },
-
     socialLinks: [{ icon: "github", link: "https://github.com/mark-lauq" }],
-
     footer: {
       copyright: `&#169; ${new Date().getUTCFullYear()} Mark`,
     },
-
     search: {
       provider: "local",
+    },
+    lastUpdated: {
+      text: "最后更新于",
+      formatOptions: {
+        dateStyle: "short",
+        timeStyle: "short",
+      },
     },
   },
 });
