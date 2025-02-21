@@ -9,7 +9,10 @@ export default defineConfig({
     /**
      * 设置 Favicon
      */
-    ["link", { rel: "icon", href: "/mark-avatar.jpg" }],
+    [
+      "link",
+      { rel: "shortcut icon", type: "image/x-icon", href: "mark-avatar.jpg" },
+    ],
   ],
   themeConfig: {
     logo: "/mark-avatar.jpg",
