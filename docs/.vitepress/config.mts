@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   cleanUrls: true,
   title: "Mark",
-  titleTemplate: "Mark",
+  titleTemplate: ":title | Mark",
   description: "Mark's Profile",
   head: [
     /**
