@@ -82,7 +82,7 @@ export default defineConfig({
             ],
           },
           {
-            text: "EICO Design",
+            text: "EICO",
             items: [
               {
                 text: "EICO 品牌官网",
@@ -167,7 +167,7 @@ export default defineConfig({
             ],
           },
           {
-            text: "EICO Design",
+            text: "EICO",
             items: [
               {
                 text: "EICO 品牌官网",
