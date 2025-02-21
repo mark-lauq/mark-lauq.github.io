@@ -1,6 +1,6 @@
 import { h } from "vue";
 import Theme from "vitepress/theme";
-import GiscusComment from "./components/GiscusComment";
+import GiscusComment from "./components/GiscusComment.vue";
 
 export default {
   ...Theme,
