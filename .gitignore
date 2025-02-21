@@ -8,3 +8,6 @@ docs/.vitepress/cache
 # Misc
 .vscode
 .DS_store
+
+# Draft
+draft

@@ -37,14 +37,6 @@ export default defineConfig({
                 text: "Doo Trading View 交易平台",
                 link: "/projects/doo-prime/trading-view",
               },
-              {
-                text: "Doo 理想家积分商城",
-                link: "/projects/doo-prime/points-mall",
-              },
-              {
-                text: "Doo 理想家积分后台",
-                link: "/projects/doo-prime/points-admin",
-              },
             ],
           },
           {
@@ -121,14 +113,6 @@ export default defineConfig({
               {
                 text: "Doo Trading View 交易平台",
                 link: "/projects/doo-prime/trading-view",
-              },
-              {
-                text: "Doo 理想家积分商城",
-                link: "/projects/doo-prime/points-mall",
-              },
-              {
-                text: "Doo 理想家积分后台",
-                link: "/projects/doo-prime/points-admin",
               },
             ],
           },
