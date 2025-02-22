@@ -21,7 +21,7 @@
 **Frameworks, Platforms and Libraries:**
 
 <div :class="$style.container">
-  <img alt="WebPack" src="https://img.shields.io/badge/WebPack-8DD6F9?logo=WebPack&logoColor=333" />
+  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=333" />
   <img alt="Rollup" src="https://img.shields.io/badge/Rollup-EC4A3F?logo=Rollup.js&logoColor=fff" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=fff" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=333" />
@@ -47,8 +47,8 @@
   <img alt="Zsh" src="https://img.shields.io/badge/Zsh-F15A24?logo=Zsh&logoColor=fff" />
   <img alt="Homebrew" src="https://img.shields.io/badge/Homebrew-FBB040?logo=Homebrew&logoColor=fff" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=fff" />
-  <img alt="NPM" src="https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=fff" />
-  <img alt="PNPM" src="https://img.shields.io/badge/Pnpm-4A4A4A?logo=Pnpm&logoColor=fff" />
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?logo=NPM&logoColor=fff" />
+  <img alt="PNPM" src="https://img.shields.io/badge/PNPM-4A4A4A?logo=PNPM&logoColor=fff" />
   <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?logo=Yarn&logoColor=fff" />
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=Prettier&logoColor=fff" />
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?logo=ESLint&logoColor=fff" />
