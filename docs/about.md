@@ -1,6 +1,59 @@
 # About Me
 
-链接: [GitHub &#8594;](https://github.com/mark-lauq)
+**Contact me:**
+
+<div :class="$style.container">
+  <a href="mailto:mark.lauq@gmail.com">
+    <img alt="EMail" src="https://img.shields.io/badge/EMail-mark.lauq@gmail.com-EA4335?logo=Gmail" />
+  </a>
+</div>
+
+**Languages:**
+
+<div :class="$style.container">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff" />
+  <img alt="Markdown" src="https://img.shields.io/badge/MarkDown-000000?logo=Markdown&logoColor=fff" />
+</div>
+
+**Frameworks, Platforms and Libraries:**
+
+<div :class="$style.container">
+  <img alt="WebPack" src="https://img.shields.io/badge/WebPack-8DD6F9?logo=WebPack&logoColor=333" />
+  <img alt="Rollup" src="https://img.shields.io/badge/Rollup-EC4A3F?logo=Rollup.js&logoColor=fff" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=fff" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=333" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=fff" />
+  <img alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-1677FF?logo=AntDesign&logoColor=fff" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff" />
+  <img alt="Koa" src="https://img.shields.io/badge/Koa-000000?logo=Koa&logoColor=fff" />
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=fff" />
+  <img alt="Lodash" src="https://img.shields.io/badge/Lodash-3498db?logo=Lodash&logoColor=fff" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=fff" />
+  <img alt="Less" src="https://img.shields.io/badge/Less-1D365D?logo=Less&logoColor=fff" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=TailwindCSS&logoColor=fff" />
+  <img alt="Swiper" src="https://img.shields.io/badge/Swiper-6332F6?logo=Swiper&logoColor=fff" />
+</div>
+
+**Editors and Tools:**
+
+<div :class="$style.container">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=VisualStudioCode&logoColor=fff" />
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?logo=Cursor&logoColor=fff" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff" />
+  <img alt="Iterm2" src="https://img.shields.io/badge/Iterm2-000000?logo=Iterm2&logoColor=fff" />
+  <img alt="Zsh" src="https://img.shields.io/badge/Zsh-F15A24?logo=Zsh&logoColor=fff" />
+  <img alt="Homebrew" src="https://img.shields.io/badge/Homebrew-FBB040?logo=Homebrew&logoColor=fff" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=fff" />
+  <img alt="NPM" src="https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=fff" />
+  <img alt="PNPM" src="https://img.shields.io/badge/Pnpm-4A4A4A?logo=Pnpm&logoColor=fff" />
+  <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?logo=Yarn&logoColor=fff" />
+  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=Prettier&logoColor=fff" />
+  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?logo=ESLint&logoColor=fff" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=fff" />
+</div>
 
 ::: info 个人优势
 
@@ -77,3 +130,15 @@
   - 熟练运用 MySQL 和 PostgreSQL 数据库进行数据存储与管理，优化查询性能，确保数据的完整性和一致性。
   - 引入 Memcache 缓存机制，显著提升系统响应速度和整体性能，有效降低数据库负载。
   - 担任全栈工程师角色，协调前后端开发流程，确保项目按时交付并满足业务需求。
+
+<style module>
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .container > img {
+    margin-bottom: 4px;
+    margin-right: 4px;
+  }
+</style>
