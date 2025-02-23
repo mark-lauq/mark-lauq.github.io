@@ -17,7 +17,6 @@ export default defineConfig({
     ],
   ],
   themeConfig: {
-    logo: "/mark-avatar.jpg",
     nav: [
       { text: "Home", link: "/" },
       {
