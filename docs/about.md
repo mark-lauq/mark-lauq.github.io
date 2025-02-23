@@ -135,10 +135,10 @@
   .container {
     display: flex;
     flex-wrap: wrap;
-  }
 
-  .container > img {
-    margin-bottom: 4px;
-    margin-right: 4px;
+    > img {
+      margin-bottom: 4px;
+      margin-right: 4px;
+    }
   }
 </style>

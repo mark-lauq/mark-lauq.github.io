@@ -1,8 +1,8 @@
 <template>
-  <img class="avatar" alt="avatar" src="./avatar.jpg" />
+  <img :class="$style.avatar" alt="avatar" src="./avatar.jpg" />
 </template>
 
-<style scoped>
+<style module>
 .avatar {
   width: 24px;
   height: 24px;
