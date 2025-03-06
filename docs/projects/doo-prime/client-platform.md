@@ -1,7 +1,3 @@
----
-prev: false
----
-
 # Doo Client Platform
 
 **Link:** [https://user.dooprime.com](https://user.dooprime.com)

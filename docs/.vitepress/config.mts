@@ -27,6 +27,15 @@ export default defineConfig({
         text: "Projects",
         items: [
           {
+            text: "Web3",
+            items: [
+              {
+                text: "Faucet",
+                link: "/projects/web3/faucet",
+              },
+            ],
+          },
+          {
             text: "Doo Prime",
             items: [
               {
@@ -102,6 +111,15 @@ export default defineConfig({
         text: "Projects",
         collapsed: false,
         items: [
+          {
+            text: "Web3",
+            items: [
+              {
+                text: "Faucet",
+                link: "/projects/web3/faucet",
+              },
+            ],
+          },
           {
             text: "Doo Prime",
             items: [
