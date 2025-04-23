@@ -17,7 +17,7 @@ Parallel Routes 架构通过 Slots 进行页面拼接。图表悬浮窗通过 MU
 ## Tech Stack
 
 **Frontend:**
-[<Badge type="tip" text="TypeScript" />](https://www.typescriptlang.org)
-[<Badge type="tip" text="Next.js" />](https://nextjs.org)
-[<Badge type="tip" text="React" />](https://react.dev)
-[<Badge type="tip" text="MUI" />](https://mui.com)
+[<Badge type="tip" text="TypeScript@5" />](https://www.typescriptlang.org)
+[<Badge type="tip" text="Next.js@15" />](https://nextjs.org)
+[<Badge type="tip" text="React@19" />](https://react.dev)
+[<Badge type="tip" text="MUI@7" />](https://mui.com)
