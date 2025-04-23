@@ -4,11 +4,11 @@ const PROJECTS = {
   text: "Projects",
   items: [
     {
-      text: "Others",
+      text: "Recent",
       items: [
         {
           text: "Stock Monthly Revenue",
-          link: "/projects/others/stock-monthly-revenue",
+          link: "/projects/recent/stock-monthly-revenue",
         },
       ],
     },
