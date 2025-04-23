@@ -10,6 +10,10 @@ const PROJECTS = {
           text: "Stock Monthly Revenue",
           link: "/projects/recent/stock-monthly-revenue",
         },
+        {
+          text: "Vite + Shadcn Demo",
+          link: "/projects/recent/vite-shadcn-demo",
+        },
       ],
     },
     {
