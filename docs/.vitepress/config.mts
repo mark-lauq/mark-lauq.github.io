@@ -4,6 +4,15 @@ const PROJECTS = {
   text: "Projects",
   items: [
     {
+      text: "Others",
+      items: [
+        {
+          text: "Stock Monthly Revenue",
+          link: "/projects/others/stock-monthly-revenue",
+        },
+      ],
+    },
+    {
       text: "Web3",
       items: [
         {

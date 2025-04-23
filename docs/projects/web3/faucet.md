@@ -1,7 +1,3 @@
----
-prev: false
----
-
 # Faucet
 
 **Link:** [https://mark-lauq.github.io/faucet](https://mark-lauq.github.io/faucet)
