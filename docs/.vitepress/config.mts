@@ -1,5 +1,84 @@
 import { defineConfig } from "vitepress";
 
+const PROJECTS = {
+  text: "Projects",
+  items: [
+    {
+      text: "Web3",
+      items: [
+        {
+          text: "Faucet",
+          link: "/projects/web3/faucet",
+        },
+      ],
+    },
+    {
+      text: "Doo Prime",
+      items: [
+        {
+          text: "Doo Client Platform",
+          link: "/projects/doo-prime/client-platform",
+        },
+        {
+          text: "Doo Trading View 交易平台",
+          link: "/projects/doo-prime/trading-view",
+        },
+      ],
+    },
+    {
+      text: "Bitiful",
+      items: [
+        {
+          text: "缤纷云控制台",
+          link: "/projects/bitiful/console",
+        },
+      ],
+    },
+    {
+      text: "Blue City",
+      items: [
+        {
+          text: "蓝城后台系统",
+          link: "/projects/bluecity/admin",
+        },
+        {
+          text: "蓝城运营管理后台",
+          link: "/projects/bluecity/op-admin",
+        },
+        {
+          text: "蓝城直播活动页",
+          link: "/projects/bluecity/live",
+        },
+        {
+          text: "蓝城公益 H5 应用",
+          link: "/projects/bluecity/weal",
+        },
+        {
+          text: "蓝城定时脚本",
+          link: "/projects/bluecity/schedule",
+        },
+      ],
+    },
+    {
+      text: "EICO",
+      items: [
+        {
+          text: "EICO 品牌官网",
+          link: "/projects/eico/homepage",
+        },
+        {
+          text: "Weico 的服务端接口",
+          link: "/projects/eico/weico-api",
+        },
+        {
+          text: "Weico 的后台管理系统",
+          link: "/projects/eico/weico-admin",
+        },
+      ],
+    },
+  ],
+};
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   cleanUrls: true,
@@ -23,84 +102,7 @@ export default defineConfig({
         text: "About Me",
         link: "/about",
       },
-      {
-        text: "Projects",
-        items: [
-          {
-            text: "Web3",
-            items: [
-              {
-                text: "Faucet",
-                link: "/projects/web3/faucet",
-              },
-            ],
-          },
-          {
-            text: "Doo Prime",
-            items: [
-              {
-                text: "Doo Client Platform",
-                link: "/projects/doo-prime/client-platform",
-              },
-              {
-                text: "Doo Trading View 交易平台",
-                link: "/projects/doo-prime/trading-view",
-              },
-            ],
-          },
-          {
-            text: "Bitiful",
-            items: [
-              {
-                text: "缤纷云控制台",
-                link: "/projects/bitiful/console",
-              },
-            ],
-          },
-          {
-            text: "Blue City",
-            items: [
-              {
-                text: "蓝城后台系统",
-                link: "/projects/bluecity/admin",
-              },
-              {
-                text: "蓝城运营管理后台",
-                link: "/projects/bluecity/op-admin",
-              },
-              {
-                text: "蓝城直播活动页",
-                link: "/projects/bluecity/live",
-              },
-              {
-                text: "蓝城公益 H5 应用",
-                link: "/projects/bluecity/weal",
-              },
-              {
-                text: "蓝城定时脚本",
-                link: "/projects/bluecity/schedule",
-              },
-            ],
-          },
-          {
-            text: "EICO",
-            items: [
-              {
-                text: "EICO 品牌官网",
-                link: "/projects/eico/homepage",
-              },
-              {
-                text: "Weico 的服务端接口",
-                link: "/projects/eico/weico-api",
-              },
-              {
-                text: "Weico 的后台管理系统",
-                link: "/projects/eico/weico-admin",
-              },
-            ],
-          },
-        ],
-      },
+      PROJECTS,
     ],
     sidebar: [
       {
@@ -108,83 +110,8 @@ export default defineConfig({
         link: "/about",
       },
       {
-        text: "Projects",
+        ...PROJECTS,
         collapsed: false,
-        items: [
-          {
-            text: "Web3",
-            items: [
-              {
-                text: "Faucet",
-                link: "/projects/web3/faucet",
-              },
-            ],
-          },
-          {
-            text: "Doo Prime",
-            items: [
-              {
-                text: "Doo Client Platform",
-                link: "/projects/doo-prime/client-platform",
-              },
-              {
-                text: "Doo Trading View 交易平台",
-                link: "/projects/doo-prime/trading-view",
-              },
-            ],
-          },
-          {
-            text: "Bitiful",
-            items: [
-              {
-                text: "缤纷云控制台",
-                link: "/projects/bitiful/console",
-              },
-            ],
-          },
-          {
-            text: "Blue City",
-            items: [
-              {
-                text: "蓝城后台系统",
-                link: "/projects/bluecity/admin",
-              },
-              {
-                text: "蓝城运营管理后台",
-                link: "/projects/bluecity/op-admin",
-              },
-              {
-                text: "蓝城直播活动页",
-                link: "/projects/bluecity/live",
-              },
-              {
-                text: "蓝城公益 H5 应用",
-                link: "/projects/bluecity/weal",
-              },
-              {
-                text: "蓝城定时脚本",
-                link: "/projects/bluecity/schedule",
-              },
-            ],
-          },
-          {
-            text: "EICO",
-            items: [
-              {
-                text: "EICO 品牌官网",
-                link: "/projects/eico/homepage",
-              },
-              {
-                text: "Weico 的服务端接口",
-                link: "/projects/eico/weico-api",
-              },
-              {
-                text: "Weico 的后台管理系统",
-                link: "/projects/eico/weico-admin",
-              },
-            ],
-          },
-        ],
       },
     ],
     outline: {
