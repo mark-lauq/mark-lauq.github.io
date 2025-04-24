@@ -92,6 +92,13 @@ const PROJECTS = {
   ],
 };
 
+const [{ link: firstRecentProjectLink }] = PROJECTS.items[0].items;
+// Update link without last path
+PROJECTS.items[0].items[0].link = firstRecentProjectLink.replace(
+  /([^/]*)$/,
+  "",
+);
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   cleanUrls: true,
@@ -152,5 +159,10 @@ export default defineConfig({
         timeStyle: "short",
       },
     },
+  },
+  rewrites: {
+    // Trim start slash
+    [`${firstRecentProjectLink.replace("/", "")}.md`]:
+      "projects/recent/index.md",
   },
 });

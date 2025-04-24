@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: About Me
       link: /about
+    - theme: alt
+      text: Projects
+      link: /projects/recent
 
 features:
   - icon:
