@@ -27,7 +27,6 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=333" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=fff" />
   <img alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-1677FF?logo=AntDesign&logoColor=fff" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff" />
   <img alt="Koa" src="https://img.shields.io/badge/Koa-000000?logo=Koa&logoColor=fff" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=fff" />
   <img alt="Lodash" src="https://img.shields.io/badge/Lodash-3498db?logo=Lodash&logoColor=fff" />
@@ -59,10 +58,9 @@
 
 - 拥有多年 Web 全栈开发经验，精通前后端技术架构与性能优化
 - 精通 HTML5、JavaScript、CSS3，擅长响应式及模块化开发
-- 熟练运用 React / Vue 框架及其生态，构建 SPA、SSR、SSG 应用
-- 掌握 TypeScript 语言特性，确保代码质量和可维护性
+- 熟练运用 React / Next / TypeScript 框架及其生态，构建 Web 应用
 - 具备后端开发能力，熟悉 REST / GraphQL API 设计
-- 熟练使用 Koa / Express 框架构建 BFF 层服务
+- 熟练使用 Node 构建 BFF 层服务
 - 了解 MySQL / Redis 数据库操作，掌握 Linux 基本命令
 - 熟悉敏捷开发流程，具备高效交付高质量项目的能力
   :::
