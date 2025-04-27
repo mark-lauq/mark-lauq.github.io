@@ -1,7 +1,3 @@
----
-prev: false
----
-
 # Stock Monthly Revenue
 
 **Website:** [https://stock-monthly-revenue.vercel.app](https://stock-monthly-revenue.vercel.app)

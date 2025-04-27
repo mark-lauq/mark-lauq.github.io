@@ -7,6 +7,10 @@ const PROJECTS = {
       text: "Recent",
       items: [
         {
+          text: "Next.js with Prisma ORM",
+          link: "/projects/recent/prisma-next",
+        },
+        {
           text: "Stock Monthly Revenue",
           link: "/projects/recent/stock-monthly-revenue",
         },
