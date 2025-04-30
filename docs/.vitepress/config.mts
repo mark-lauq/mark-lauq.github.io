@@ -52,10 +52,10 @@ const PROJECTS = {
       ],
     },
     {
-      text: "Blue City",
+      text: "蓝城兄弟",
       items: [
         {
-          text: "蓝城后台系统",
+          text: "蓝城兄弟后台系统",
           link: "/projects/bluecity/admin",
         },
         {
