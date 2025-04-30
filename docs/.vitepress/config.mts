@@ -33,7 +33,7 @@ const PROJECTS = {
       text: "Doo Prime",
       items: [
         {
-          text: "Doo Client Platform",
+          text: "Doo Client/IB Platform",
           link: "/projects/doo-prime/client-platform",
         },
         {
