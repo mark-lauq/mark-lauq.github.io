@@ -4,7 +4,7 @@ const PROJECTS = {
   text: "Projects",
   items: [
     {
-      text: "Recent",
+      text: "Others",
       items: [
         {
           text: "Next.js with Prisma ORM",
@@ -13,10 +13,6 @@ const PROJECTS = {
         {
           text: "Stock Monthly Revenue",
           link: "/projects/recent/stock-monthly-revenue",
-        },
-        {
-          text: "Vite + Shadcn Demo",
-          link: "/projects/recent/vite-shadcn-demo",
         },
       ],
     },
