@@ -1,7 +1,3 @@
----
-prev: false
----
-
 # Next.js with Prisma ORM
 
 **GitHub:** [https://github.com/mark-lauq/prisma-next](https://github.com/mark-lauq/prisma-next)

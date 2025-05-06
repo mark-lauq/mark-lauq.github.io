@@ -2,7 +2,7 @@
 
 **GitHub:** [https://github.com/mark-lauq/vite-shadcn-demo](https://github.com/mark-lauq/vite-shadcn-demo)
 
-![Vite Shadcn Demo](/projects/recent/vite-shadcn-demo.png)
+![Vite Shadcn Demo](/projects/others/vite-shadcn-demo.png)
 
 基于 Vite + Shadcn 搭建的脚手架项目，可用于快速开发。
 

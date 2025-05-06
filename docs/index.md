@@ -12,7 +12,7 @@ hero:
       link: /about
     - theme: alt
       text: Projects
-      link: /projects/recent
+      link: /projects/ai
 
 features:
   - icon:

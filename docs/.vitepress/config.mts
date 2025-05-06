@@ -4,15 +4,24 @@ const PROJECTS = {
   text: "Projects",
   items: [
     {
+      text: "AI",
+      items: [
+        {
+          text: "AI Chatbot",
+          link: "/projects/ai/chatbot",
+        },
+      ],
+    },
+    {
       text: "Others",
       items: [
         {
           text: "Next.js with Prisma ORM",
-          link: "/projects/recent/prisma-next",
+          link: "/projects/others/prisma-next",
         },
         {
           text: "Stock Monthly Revenue",
-          link: "/projects/recent/stock-monthly-revenue",
+          link: "/projects/others/stock-monthly-revenue",
         },
       ],
     },
@@ -92,12 +101,9 @@ const PROJECTS = {
   ],
 };
 
-const [{ link: firstRecentProjectLink }] = PROJECTS.items[0].items;
+const [{ link: firstProjectLink }] = PROJECTS.items[0].items;
 // Update link without last path
-PROJECTS.items[0].items[0].link = firstRecentProjectLink.replace(
-  /([^/]*)$/,
-  "",
-);
+PROJECTS.items[0].items[0].link = firstProjectLink.replace(/([^/]*)$/, "");
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -162,7 +168,6 @@ export default defineConfig({
   },
   rewrites: {
     // Trim start slash
-    [`${firstRecentProjectLink.replace("/", "")}.md`]:
-      "projects/recent/index.md",
+    [`${firstProjectLink.replace("/", "")}.md`]: "projects/ai/index.md",
   },
 });
