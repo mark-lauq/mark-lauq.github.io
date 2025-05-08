@@ -5,7 +5,7 @@ layout: home
 hero:
   # name: "Mark"
   text: "Mark"
-  tagline: Web Full-Stack Engineer
+  tagline: A Web Full-Stack Engineer
   actions:
     - theme: brand
       text: About Me
