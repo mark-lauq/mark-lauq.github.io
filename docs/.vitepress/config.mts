@@ -13,6 +13,19 @@ const PROJECTS = {
       ],
     },
     {
+      text: "Web3",
+      items: [
+        {
+          text: "Web3 E-Commerce",
+          link: "/projects/web3/ecommerce",
+        },
+        {
+          text: "Faucet",
+          link: "/projects/web3/faucet",
+        },
+      ],
+    },
+    {
       text: "Others",
       items: [
         {
@@ -22,15 +35,6 @@ const PROJECTS = {
         {
           text: "Stock Monthly Revenue",
           link: "/projects/others/stock-monthly-revenue",
-        },
-      ],
-    },
-    {
-      text: "Web3",
-      items: [
-        {
-          text: "Faucet",
-          link: "/projects/web3/faucet",
         },
       ],
     },
