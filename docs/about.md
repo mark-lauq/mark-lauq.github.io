@@ -66,10 +66,10 @@
 
 ## Hobbies
 
-- **🎵 Music** like Chinese-style, rhythm dance, concerto etc.
+- **🎵 Music** Like Chinese-style, rhythm dance, concerto etc.
 - **🏃 Fitness** Focus on aerobic exercise to maintain vitality
 - **🎒 Travel** Most of the countries have traveled are in Asia, include Malaysia, Thailand and Japan
-- **⌨️ Programming development** putting ideas into practice, and having fun creating
+- **⌨️ Programming development** Putting ideas into practice, and having fun creating
 
 ## Contact
 
