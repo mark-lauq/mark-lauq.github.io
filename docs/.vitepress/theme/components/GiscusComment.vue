@@ -19,11 +19,11 @@
 </template>
 
 <script setup lang="ts">
-import Giscus from "@giscus/vue";
-import { useRoute, useData } from "vitepress";
+import Giscus from '@giscus/vue'
+import { useData, useRoute } from 'vitepress'
 
-const route = useRoute();
-const { isDark } = useData();
+const route = useRoute()
+const { isDark } = useData()
 </script>
 
 <style module>
