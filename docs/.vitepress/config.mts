@@ -7,6 +7,10 @@ const PROJECTS = {
       text: "AI",
       items: [
         {
+          text: "MCP",
+          link: "/projects/ai/mcp",
+        },
+        {
           text: "AI Chatbot",
           link: "/projects/ai/chatbot",
         },

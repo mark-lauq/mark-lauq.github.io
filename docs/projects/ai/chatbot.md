@@ -1,7 +1,3 @@
----
-prev: false
----
-
 # AI Chatbot
 
 **GitHub:** [https://github.com/mark-lauq/ai-chatbot](https://github.com/mark-lauq/ai-chatbot)
